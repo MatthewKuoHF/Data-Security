@@ -1,0 +1,8 @@
+You find an odd DeLorean parked around the corner. Realizing that Doc Brown has left the
+keys in the ignition, you decide that a quick trip back to Rome in 40 BC is in order. A few mint
+condition coins, and possibly a picture of Vincengetorix will be highly remunerative.
+As usual, the car fails and you are stranded.
+All is not lost, Julius Ceaser recruits you for his secret service as a cryptographer. Falerian
+wine is palatable and there are more than enough other attractions to make your life comfortable.
+Fortunately, you have your laptop, with a python interpreter, and by the use of lemon juice,
+copper denari and zinc you are able to rig up a battery to keep it running.
